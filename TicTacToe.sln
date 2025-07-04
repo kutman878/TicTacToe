@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe_Logic", "TicTacToe_Logic.csproj", "{642AA5D6-2E72-411E-BFDC-036485E02BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{13EE7FD5-5696-4474-8640-9F76EEF4C691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe_UI", "..\TicTacToe_UI\TicTacToe_UI.csproj", "{427F3A6A-00D4-413E-837A-15ABFC81FC7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{642AA5D6-2E72-411E-BFDC-036485E02BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642AA5D6-2E72-411E-BFDC-036485E02BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642AA5D6-2E72-411E-BFDC-036485E02BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642AA5D6-2E72-411E-BFDC-036485E02BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EE7FD5-5696-4474-8640-9F76EEF4C691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EE7FD5-5696-4474-8640-9F76EEF4C691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EE7FD5-5696-4474-8640-9F76EEF4C691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EE7FD5-5696-4474-8640-9F76EEF4C691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427F3A6A-00D4-413E-837A-15ABFC81FC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427F3A6A-00D4-413E-837A-15ABFC81FC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427F3A6A-00D4-413E-837A-15ABFC81FC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427F3A6A-00D4-413E-837A-15ABFC81FC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC91619D-14EC-4678-9EB5-856D492D2B31}
+	EndGlobalSection
+EndGlobal
